@@ -30,10 +30,15 @@ create new blog posts using a JSON Server backend.
 3. **Install required libraries for the assignment** 
  ie, TanStack Query, Tailwind CSS, and  shadcn/ui
 
- **Tailwind Installation**
-   npm install -D tailwindcss@3 postcss autoprefixer
-   npx tailwindcss init -p
-   
+ ### Tailwind CSS Installation
+
+Install Tailwind CSS and its required dependencies:
+
+```bash
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+
+
 4. **Start the JSON Server (Backend API)**
    ```bash
    npm run server
