@@ -37,7 +37,7 @@ Install Tailwind CSS and its required dependencies:
 ```bash
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
-
+  ```
 
 4. **Start the JSON Server (Backend API)**
    ```bash
