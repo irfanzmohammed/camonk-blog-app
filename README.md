@@ -69,7 +69,9 @@ Here's a  design for the blog application layout:
 
 UI IMAGE - ![UI](ui.png)
 
-Here's a  design Create blog page:
+
+
+Here's a  design for the Create blog page:
 CREATE BLOG IMAGE - ![CREATEBLOG](createblog.png)
 
 
