@@ -68,6 +68,8 @@ Here's a  design for the blog application layout:
 **Right Panel:** Blog detail view displaying cover image, full content
 
 UI IMAGE - ![UI](ui.png)
+
+Here's a  design Create blog page:
 CREATE BLOG IMAGE - ![CREATEBLOG](createblog.png)
 
 
